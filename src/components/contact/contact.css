@@ -1,0 +1,49 @@
+.cHome{
+    position: absolute;
+    right:48.25% ;
+    top: calc(1rem + 2vw);
+    text-decoration: none;
+    z-index: 1;
+}
+
+#contact{
+    margin-top: 7rem;
+}
+
+.container.contact__container{
+    width: 58%;
+    display: grid;
+    grid-template-columns: 30% 58%;
+    gap: 12%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+input, textarea{
+    width:100%;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    background: transparent;
+    border: 2px solid var(--color-primary-variant);
+    resize: none;
+    color: var(--color-black);
+}
+
+/* media query med */
+@media screen and (max-width: 1024pxpx){
+    .container.contact__container{
+        gap: 2rem;
+        grid-template-columns: 1fr;
+    }
+}
+    
+/* media query small */
+@media screen and (max-width: 600px){
+    .container.contact__container{
+        width: var(--container-width-sm);
+    }
+}

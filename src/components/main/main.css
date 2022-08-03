@@ -1,0 +1,53 @@
+main{
+    height: 100vh;
+    padding-top: 7rem;
+    overflow: hidden;
+}
+
+.main__container{
+    text-align: center;
+    height: 100%;
+    position: relative;
+    padding-top: 7rem;
+}
+
+
+.portfolio{
+    position: absolute;
+    top: 50%;
+    right: calc(1rem + 2vw);
+    transform: rotate(90deg) translate(-50%, -50%);
+    text-decoration: none;
+    z-index: 1;
+}
+
+.experience{
+    position: absolute;
+    top: 50%;
+    left: calc(1rem + 2vw);
+    transform: translate(-50%, -50%) rotate(-90deg) ;
+    text-decoration: none;
+    z-index: 1;
+}
+
+.about{
+    position: absolute;
+    right:48% ;
+    bottom: calc(1rem + 2vw);
+    text-decoration: none;
+    z-index: 1;
+}
+
+/* media query med */
+@media screen and (max-width: 1024px) {
+    main{
+        height: 68vh;
+    }
+}
+
+/* media query small */
+@media screen and (max-width: 600) {
+    mian{
+        height: 100vh;
+    }
+}

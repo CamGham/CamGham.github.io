@@ -1,0 +1,36 @@
+.aHome{
+    position: absolute;
+    right:50% ;
+    top: calc(1rem + 0.8vw);
+    text-decoration: none;
+    z-index: 1;
+}
+
+.about__box{
+    position: absolute;
+    top: 15%;
+    left: 22.5%;
+    
+
+    width: 55vw;
+    /* height: 55vh; */
+    display: flex;
+    flex-direction: column;
+
+    border-left: 2px solid var(--color-black);
+    border-right: 2px solid var(--color-black);
+    border-top: 2px solid var(--color-black);
+    border-bottom: 2px solid var(--color-black);
+
+    background-color: var(--color-bg);
+}
+
+.text{
+    justify-content: space-evenly;
+    padding: 1rem;
+}
+
+
+
+
+

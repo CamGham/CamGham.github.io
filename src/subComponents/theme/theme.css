@@ -1,0 +1,14 @@
+.Theme{
+    display: inline-block;
+    position: fixed;
+    right: 2rem;
+    top: 2rem;
+    z-index: 3;
+}
+
+.theme-btn{
+    outline: none;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
