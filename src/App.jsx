@@ -17,7 +17,7 @@ const App = () => {
       <Route exact path="/" element={<Main/>}/>
       <Route exact path="/experience" element={<Experience/>}/>
       <Route exact path="/portfolio" element={<Portfolio/>}/>
-      <Route exact path="/contact" element={<Contact/>}/>
+      <Route exact path="/contactme" element={<Contact/>}/>
       <Route exact path="/about" element={<About/>}/>
     </Routes>
     </AnimatePresence>
