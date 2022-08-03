@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8ce81e2a8223544b383c",
+    "revision": "695df6e3119b6f67345e",
     "url": "/static/css/main.f484752d.chunk.css"
   },
   {
-    "revision": "8ce81e2a8223544b383c",
-    "url": "/static/js/main.1d2bb822.chunk.js"
+    "revision": "695df6e3119b6f67345e",
+    "url": "/static/js/main.7405af59.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/3- CV Template 2022 v3.24515d18.pdf"
   },
   {
-    "revision": "357b29dcd68e61968cc514a0cdb23fc2",
+    "revision": "f4a8554a33226baae562d9be314dac0e",
     "url": "/index.html"
   }
 ];
