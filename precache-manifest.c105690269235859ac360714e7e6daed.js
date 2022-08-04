@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "695df6e3119b6f67345e",
-    "url": "/static/css/main.f484752d.chunk.css"
+    "revision": "e8402f89c2d3065a8033",
+    "url": "/static/css/main.f8d89d78.chunk.css"
   },
   {
-    "revision": "695df6e3119b6f67345e",
-    "url": "/static/js/main.7405af59.chunk.js"
+    "revision": "e8402f89c2d3065a8033",
+    "url": "/static/js/main.0decb068.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/static/js/2.a7ae1457.chunk.js"
   },
   {
-    "revision": "e2ca545a7ce3e533fddd09f1523f5c0d",
-    "url": "/static/media/SportsHub.e2ca545a.png"
+    "revision": "91d6aecb8e2056bc2e5e2ff9f5ac5f48",
+    "url": "/static/media/SportsHub.91d6aecb.png"
   },
   {
     "revision": "9f23c02ac31d661d360ebbc1d85b2684",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/3- CV Template 2022 v3.24515d18.pdf"
   },
   {
-    "revision": "f4a8554a33226baae562d9be314dac0e",
+    "revision": "e75f323ebfbe615495e21f9cd946f516",
     "url": "/index.html"
   }
 ];
