@@ -31,8 +31,8 @@
     border-radius: 1.5rem;
     overflow: hidden;
     width: auto;
-    /* max-height: 340px; */
-    height: 340px;
+    /* height: 320px; */
+    height: 19rem;
     background-color: black;
     align-items: center;
     
@@ -56,6 +56,9 @@ margin: 1.2 0 2rem;
         gap: 1.2rem;
 
     }
+    .portfolio__item-img{
+        height: 13rem;
+    }
 }
 
 /* media query small */
@@ -64,6 +67,9 @@ margin: 1.2 0 2rem;
         grid-template-columns: 1fr;
         gap: 1rem;
         padding: 0rem 3.5rem;
+    }
+    .portfolio__item-img{
+        height: 10rem;
     }
 }
     
